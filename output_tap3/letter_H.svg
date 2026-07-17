@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" preserveAspectRatio="none">
+  <g id="skeleton-shapes">
+    <path id="path-1-1" d="M 194.83 67.34 L 192.00 503.00" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-2-1" d="M 192.00 503.00 C 192.16 642.58, 190.11 786.44, 192.50 926.00 C 192.69 937.37, 197.44 948.89, 199.83 960.00" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-3-1" d="M 192.00 503.00 C 204.69 506.74, 217.79 513.88, 231.00 514.50 C 306.45 518.02, 384.47 515.37, 460.00 515.50 C 570.03 515.70, 683.53 518.90, 793.50 515.50 C 806.53 515.10, 819.51 507.73, 832.00 504.00" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-4-1" d="M 832.00 504.00 L 827.90 957.97" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-5-1" d="M 832.00 504.00 C 831.84 366.56, 832.89 224.94, 831.50 87.50 C 831.43 80.49, 828.86 73.35, 827.58 66.45" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-6-1" d="M 827.58 66.45 C 831.24 65.92, 836.78 62.79, 840.00 64.62 C 840.30 64.80, 841.84 74.32, 841.50 74.38 C 837.01 75.04, 830.32 62.85, 827.58 66.45 C 824.00 71.15, 830.42 81.70, 831.50 87.50" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-7-1" d="M 827.90 957.97 C 831.95 955.18, 836.59 948.46, 841.50 948.62 C 841.82 948.64, 840.26 958.19, 840.00 958.38 C 838.71 959.26, 828.50 959.42, 827.90 957.97 C 825.52 952.10, 830.40 943.74, 831.50 937.50" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

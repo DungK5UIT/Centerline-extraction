@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" preserveAspectRatio="none">
+  <g id="skeleton-shapes">
+    <path id="path-1-1" d="M 339.55 477.50 C 362.29 479.64, 385.91 480.65, 408.50 484.00 C 410.09 484.24, 411.35 486.99, 412.29 488.29 C 522.37 640.38, 635.48 797.31, 745.41 949.51" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-2-1" d="M 339.55 477.50 C 323.29 462.57, 287.14 448.35, 284.00 426.50 C 268.34 317.37, 283.00 200.74, 284.00 90.50 C 284.07 83.04, 283.65 73.19, 287.27 66.67 C 287.84 65.65, 293.12 71.74, 294.00 72.50" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-3-1" d="M 339.55 477.50 L 290.30 531.00" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-4-1" d="M 339.55 477.50 C 348.99 473.80, 358.45 468.87, 368.25 466.25 C 368.26 466.25, 362.01 471.50, 362.00 471.50 C 361.30 471.77, 338.82 477.31, 339.55 477.50 C 361.46 483.39, 385.91 481.87, 408.50 484.00" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-5-1" d="M 339.55 477.50 C 327.16 465.95, 314.69 453.72, 302.00 442.50 C 302.00 442.50, 298.67 441.33, 298.67 441.33 C 311.37 453.18, 323.36 471.21, 339.55 477.50 C 360.45 485.62, 386.18 481.90, 408.50 484.00" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-6-1" d="M 339.55 477.50 C 323.34 475.66, 306.69 473.08, 290.42 471.92 C 289.58 471.86, 286.11 472.84, 286.00 473.67 C 283.89 489.15, 282.50 505.91, 283.67 521.50 C 283.93 525.05, 288.26 528.08, 290.30 531.00" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-7-1" d="M 339.55 477.50 C 366.57 462.83, 395.36 449.20, 421.50 433.00 C 509.23 378.64, 597.45 319.18, 684.50 263.75 C 687.92 261.57, 694.78 261.58, 696.49 257.90 C 697.76 255.16, 693.17 250.55, 691.93 247.79" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="path-8-1" d="M 278.60 954.95 C 280.36 947.30, 283.89 939.35, 284.00 931.50 C 285.70 804.67, 282.08 673.96, 284.07 547.14 C 284.16 541.61, 288.31 536.16, 290.30 531.00" fill="none" stroke="black" stroke-width="45" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
