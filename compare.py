@@ -44,15 +44,16 @@ def main():
     # Chỉ so sánh các folder đang tồn tại trong workspace
     active_dirs = [(name, d) for name, d in OUR_DIRS if os.path.exists(d)]
     
-    print(f"\n{'='*95}")
-    print(f"  BẢNG SO SÁNH SỐ LƯỢNG NÉT VẼ SO VỚI REFERENCE ({REF_DIR})")
-    print(f"{'='*95}")
+    lines = []
+    lines.append(f"\n{'='*95}")
+    lines.append(f"  BẢNG SO SÁNH SỐ LƯỢNG NÉT VẼ SO VỚI REFERENCE ({REF_DIR})")
+    lines.append(f"{'='*95}")
     
     header = f"{'File hình mẫu':25s} | {'Reference':>9s}"
     for name, d in active_dirs:
         header += f" | {d:>12s} (Δ)"
-    print(header)
-    print('-' * len(header))
+    lines.append(header)
+    lines.append('-' * len(header))
 
     for fname, r_cnt in sorted(ref_counts.items()):
         r_str = str(r_cnt) if r_cnt is not None else 'N/A'
@@ -64,8 +65,15 @@ def main():
             else:
                 delta = o_cnt - r_cnt if r_cnt is not None else 0
                 row += f" | {o_cnt:7d} ({delta:+3d})"
-        print(row)
-    print(f"{'='*95}\n")
+        lines.append(row)
+    lines.append(f"{'='*95}\n")
+
+    report_text = '\n'.join(lines)
+    print(report_text)
+    
+    with open('compare.txt', 'w', encoding='utf-8') as f:
+        f.write(report_text.strip() + '\n')
+    print("-> Đã tự động lưu toàn bộ bảng so sánh vào file 'compare.txt'.\n")
 
 if __name__ == "__main__":
     main()
